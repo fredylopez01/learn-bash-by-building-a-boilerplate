@@ -165,3 +165,4 @@ mv menlo.font menlo.oft
 mv menlo.font menlo.oft
 ls --color=auto
 mv menlo.oft menlo.otf
+ls --color=auto
