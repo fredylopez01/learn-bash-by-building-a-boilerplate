@@ -170,3 +170,4 @@ mkdir font
 ls --color=auto
 rm font
 mkdir fonts
+ls --color=auto
